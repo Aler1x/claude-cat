@@ -1,0 +1,6 @@
+{
+  "name": "petit-chat",
+  "version": "0.1.0",
+  "description": "A small animated braille cat above the prompt, ported from Mistral Vibe's PetitChat.",
+  "author": { "name": "Aler1x" }
+}
